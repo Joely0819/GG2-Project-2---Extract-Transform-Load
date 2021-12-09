@@ -11,7 +11,7 @@ Data sources used: We recommend the following sites to use as sources of data:
     https://catalog.data.gov/dataset/electric-vehicle-population-data
     https://catalog.data.gov/dataset/electric-vehicle-population-size-history
 * API:
-	https://rapidapi.com/luhar2992@gmail.com/api/electric-vehicle-updates/
+	https://www.back4app.com/database/back4app/car-make-model-dataset/get-started/python/rest-api/requests?objectClassSlug=all-cars-by-model-and-by-make-and-by-year
 
 
 
