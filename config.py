@@ -1,3 +1,2 @@
-
- api_key = "e558e4b502msh07f674790061b6fp1c6526jsn256e907a80d3"
+api_key =  'SNMJJF0CZZhTPhLDIqGhTlUNV9r60M2Z5spyWfXW'
 
