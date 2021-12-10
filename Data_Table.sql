@@ -6,7 +6,6 @@ create table Electric_Vehicle_Data (
 	model varchar,
 	electric_vehicle_type varchar
 );
-select * from Electric_Vehicle_Data;
 
 --import Electric Vehicle Data CSV
 
